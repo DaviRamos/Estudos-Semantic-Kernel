@@ -1,0 +1,46 @@
+<Solution>
+  <Folder Name="/- NonAzureOpenAiSamples -/">
+    <Project Path="NonAzureOpenAiOptions/GoogleGeminiSample/GoogleGeminiSample.csproj" />
+    <Project Path="NonAzureOpenAiOptions/OfflineOllamaSample/OllamaSample.csproj" />
+  </Folder>
+  <Folder Name="/- NonSemanticKernelSamples -/">
+    <Project Path="NonSemanticKernelOptions/AzureOpenAiNuget/AzureOpenAiNuget.csproj" />
+    <Project Path="NonSemanticKernelOptions/MicrosoftExtensionsAi/MicrosoftExtensionsAi.csproj" />
+    <Project Path="NonSemanticKernelOptions/OpenAiNuget/OpenAiNuget.csproj" />
+  </Folder>
+  <Folder Name="/AiFoundry.Local/">
+    <Project Path="AiFoundry.Local.HelloWorld/AiFoundry.Local.HelloWorld.csproj" Id="8d789c19-915e-4fae-b326-411bebab6232" />
+  </Folder>
+  <Folder Name="/AiFoundry/">
+    <Project Path="AiFoundryHelloWorld/AiFoundryHelloWorld.csproj" />
+    <Project Path="AiFoundrySemanticKernel/AiFoundrySemanticKernel.csproj" />
+  </Folder>
+  <Folder Name="/FunctionCalling/">
+    <Project Path="FunctionCallingExample/FunctionCallingExample.csproj" />
+  </Folder>
+  <Folder Name="/Gpt5AndReasoning/">
+    <Project Path="Gtp5.SemanticKernel/Gtp5.SemanticKernel.csproj" Id="a526ed70-01d2-43a5-be40-b3e6f95853d2" />
+  </Folder>
+  <Folder Name="/ModelContextProtocol/">
+    <Project Path="ModelContextProtocol/Client/Client.csproj" />
+  </Folder>
+  <Folder Name="/ModelContextProtocol/Servers/">
+    <Project Path="ModelContextProtocol/RemoteServerUsingAzureFunctions/RemoteServerUsingAzureFunctions.csproj" />
+    <Project Path="ModelContextProtocol/LocalServer/LocalServer.csproj" />
+    <Project Path="ModelContextProtocol/RemoteServer/RemoteServer.csproj" />
+  </Folder>
+  <Folder Name="/PromptEngeneering/">
+    <Project Path="PromptEngeneering/PromptEngeneering.csproj" Id="1619bbaf-4233-4e9c-9a1e-b062c0f89496" />
+  </Folder>
+  <Folder Name="/RAG/">
+    <Project Path="RagExample/RagExample.csproj" />
+  </Folder>
+  <Folder Name="/SK-MEAI-Comparison/">
+    <Project Path="SK-MEAI-Comparison/SK-MEAI-Comparison.csproj" Id="e5ee52f6-457f-4c5f-adff-8a5cd13750d7" />
+  </Folder>
+  <Folder Name="/StructuredOutput/">
+    <Project Path="StructuredOutputExample/StructuredOutputExample.csproj" />
+  </Folder>
+  <Project Path="HelloWorldExample/HelloWorld.csproj" />
+  <Project Path="Shared/Shared.csproj" />
+</Solution>
