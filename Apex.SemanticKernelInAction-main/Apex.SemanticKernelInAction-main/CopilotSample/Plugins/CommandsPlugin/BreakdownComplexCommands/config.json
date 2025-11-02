@@ -1,0 +1,18 @@
+{
+  "schema": 1,
+  "type": "completion",
+  "description": "It breaks down the given complex command into a step-by-step sequence of basic moves.",
+  "execution_settings": {
+    "default": {
+      "max_tokens": 1000,
+      "temperature": 0.1
+    }
+  },
+  "input_variables": [
+    {
+      "name": "input",
+      "description": "The complex command to break down into a step-by-step sequence of basic moves.",
+      "required": true
+    }
+  ]
+}
